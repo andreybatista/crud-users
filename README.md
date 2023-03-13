@@ -32,13 +32,6 @@ Para iniciar o servidor Web:
 http-server
 ```
 
-<br>
-<br>
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-
 <p align="center">
   <img alt="preview da página" src="./img/screenshot.png" width="100%">
 </p>
